@@ -30,6 +30,14 @@ FPS seçenekleri, grafik profilleri ve gelişmiş sistem optimizasyonlarıyla oy
 - Super Smooth
 
 ## 🏆 Advanced Features
+<img width="1601" height="1009" alt="image" src="https://github.com/user-attachments/assets/cd0a6ba9-291d-4385-90af-579b9885555f" />
+
+<img width="1591" height="997" alt="image" src="https://github.com/user-attachments/assets/0e919d25-29f4-41cc-8f90-2632a136fec0" />
+
+<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/33c8ea2f-7b19-462e-af82-3b8b8ccac6e5" />
+
+<img width="1603" height="1003" alt="image" src="https://github.com/user-attachments/assets/25dbaf04-d580-4248-b22c-81dd66c8da64" />
+
 
 **Tournament Mode**
 - Reduced system latency
